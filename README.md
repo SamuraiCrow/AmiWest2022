@@ -1,6 +1,6 @@
 # AmiWest2022 Slideshows
 
-## HollywoodPrimer
+## Hollywood Primer
 
 [PDF](HollywoodPrimer.pdf) [OpenDocument](HollywoodPrimer.odp)
 
@@ -8,7 +8,7 @@
 
 [PDF](HollywoodOOP.pdf) [OpenDocument](HollywoodOOP.odp)
 
-## HollywoodRapaGUI
+## Hollywood RapaGUI
 
 [PDF](HollywoodRapaGUI.pdf) [OpenDocument](HollywoodRapaGUI.odp)
 
