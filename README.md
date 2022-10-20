@@ -11,3 +11,5 @@
 ## HollywoodRapaGUI
 
 [PDF](HollywoodRapaGUI.pdf) [OpenDocument](HollywoodRapaGUI.odp)
+
+[RapaEdit WIP GitHub project](https://github.com/SamuraiCrow/RapaEdit)
