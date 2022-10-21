@@ -13,3 +13,8 @@
 [PDF](HollywoodRapaGUI.pdf) [OpenDocument](HollywoodRapaGUI.odp)
 
 [RapaEdit WIP GitHub project](https://github.com/SamuraiCrow/RapaEdit)
+
+# Other Tutorials
+
+[Totorial from Retro Zargosa part 1](TutorialRetroZaragoza_english.lha)
+[Crash Course in Hollywood by RNO](https://library.morph.zone/Crash_Course_to_Hollywood_Programming)
