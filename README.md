@@ -16,5 +16,5 @@
 
 # Other Tutorials
 
-[Totorial from Retro Zargosa part 1](TutorialRetroZaragoza_english.lha)
+[Tutorial from Retro Saragossa part 1](TutorialRetroZaragoza_english.lha)
 [Crash Course in Hollywood by RNO](https://library.morph.zone/Crash_Course_to_Hollywood_Programming)
